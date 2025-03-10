@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Luke Roberts
-logo: assets/img/IMG_1047.PNG
+logo: assets/IMG_1047.PNG
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
