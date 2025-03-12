@@ -34,4 +34,6 @@ I have recently completed an intensive programme focused on data analysis includ
 ### Data Analysis Projects:
 
 # Tableau Health Survey Data Study
-[Health Survey Data](https://github.com/LukeDTR/Luke-s_Portfolio/blob/main/Assets/Day_2_Task_2_Health_Survey.twbx)
+[Health Survey Data](https://github.com/LukeDTR/Tableau-World-Health-Data)
+* This study used a World Health Dataset to examine various types of cancer rate across populations.
+* It also looked at average life expectancies by continent and by country.
