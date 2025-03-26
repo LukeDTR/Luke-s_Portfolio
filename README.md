@@ -42,3 +42,8 @@ I have recently completed an intensive programme focused on data analysis includ
 [Spotify Data](https://github.com/LukeDTR/Tableau-Spotify-Dataset)
 * This study examined user data from Spotify.
 * It compared various factors such as time to determine correlations between popularity.
+
+# Power BI Dashboards
+[Power BI](https://github.com/LukeDTR/PowerBI-Dashboards)
+* This is a collection of Power BI Dashboards/Reports.
+* They showcase my learning through a virtual environment.
