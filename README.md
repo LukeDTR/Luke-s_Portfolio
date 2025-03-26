@@ -60,5 +60,5 @@ I have recently completed an intensive programme focused on data analysis includ
 
 # Python
 [Python](https://github.com/LukeDTR/Python)
-* This is a colelction of studies completed in Python.
+* This is a collection of studies completed in Python.
 * Practical examples shown are focused on a GDP Per Capita dataset.
