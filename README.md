@@ -37,3 +37,8 @@ I have recently completed an intensive programme focused on data analysis includ
 [Health Survey Data](https://github.com/LukeDTR/Tableau-World-Health-Data)
 * This study used a World Health Dataset to examine various types of cancer rate across populations.
 * It also looked at average life expectancies by continent and by country.
+
+# Tableau Spotify Data Study
+[Spotify Data](https://github.com/LukeDTR/Tableau-Spotify-Dataset)
+* This study examined user data from Spotify.
+* It compared various factors such as time to determine correlations between popularity.
