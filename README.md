@@ -47,3 +47,13 @@ I have recently completed an intensive programme focused on data analysis includ
 [Power BI](https://github.com/LukeDTR/PowerBI-Dashboards)
 * This is a collection of Power BI Dashboards/Reports.
 * They showcase my learning through a virtual environment.
+
+# SQL
+[SQL](https://github.com/LukeDTR/SQL-Projects)
+* This is a collection of work completed in SQL.
+* I have included written work as it was heavily based on theoretical concepts.
+
+# Azure
+[Azure](https://github.com/LukeDTR/Azure)
+* This was a study of the fundamentals of Azure data.
+* Written work has been included.
