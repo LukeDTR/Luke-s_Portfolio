@@ -58,7 +58,7 @@ I have recently completed an intensive programme focused on data analysis includ
 * This was a study of the fundamentals of Azure data.
 * Written work has been included.
 
-#Python
+# Python
 [Python](https://github.com/LukeDTR/Python)
 * This is a colelction of studies completed in Python.
 * Practical examples shown are focused on a GDP Per Capita dataset.
